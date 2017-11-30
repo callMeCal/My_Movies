@@ -1,14 +1,7 @@
-# My_Movies
-My_Movies is a small program that creates a page that displays
-information and trailers for specific movies. Almost all of the page_create.py code was pulled from the ud036_StarterCode repository file fresh_tomatoes provided by Udacity.
+# How to Run My_Movies
+You must have Python 2.7+ installed on your machine.
 
-# Requirements
-You need to have python 2.7+ installed.
-
-# Installation
-Clone the repository from https://github.com/callMeCal/My_Movies.git to your local machine.
-
-# Usage
-To add movies simply add instances of media.Movie to entertainment_center.py.
-
-To create the page, run the entertainment_center.py file. Make sure the movies variable includes all instances of media.Movie.
+1. Clone code from repository: https://github.com/callMeCal/My_Movies.git.
+2. Open terminal and navigate to directory with code cloned from github.
+3. Using Python run entertainment_center.py
+4. A page will open in your browser and you can view my favorite movies!
