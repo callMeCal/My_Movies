@@ -22,8 +22,7 @@ road_perdition = media.Movie('https://youtu.be/IjbSYkY5hVA',
 # list containing movie instances that feeds page_create to show movies
 movies = [godfather_pt1, inside_out, road_perdition]
 
-# Creates the tiles displaying the movies
+
 page_create.create_movie_tiles_content(movies)
-# Creates and opens fresh_tomatoes.html file displaying movies
 page_create.open_movies_page(movies)
 
